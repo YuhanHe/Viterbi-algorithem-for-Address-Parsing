@@ -1,3 +1,3 @@
 # Viterbi-algorithem-for-Address-Parsing
 
-## Please refer `Project-specs.ipynb`
+## For project describtion please refer `Project-specs.ipynb`
